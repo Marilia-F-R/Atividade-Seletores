@@ -1,0 +1,61 @@
+.quadrado {
+
+    display: inline-block;
+
+    border: 1px solid black;
+
+    width: 200px;
+
+    height: 200px;
+
+    background-color: red;
+
+}
+#azul1 {
+    background-color: rgb(25, 105, 234);
+}
+#azul2 {
+    background-color: rgb(25, 105, 234);
+}
+#azul3 {
+    background-color: rgb(25, 105, 234);
+}
+#azul4 {
+    background-color: rgb(25, 105, 234);
+}
+#verde1 {
+    background-color: rgb(20, 219, 20);
+}
+#verde2 {
+    background-color: rgb(20, 219, 20);
+}
+#verde3 {
+    background-color: rgb(20, 219, 20);
+}
+#verde4 {
+    background-color: rgb(20, 219, 20);
+}
+#amarelo1 {
+    background-color: yellow;
+}
+#amarelo2 {
+    background-color: yellow;
+}
+#amarelo3 {
+    background-color: yellow;
+}
+#amarelo4 {
+    background-color: yellow;
+}
+#borda_escura1 {
+    border: 2px solid black;
+}
+#borda_escura2 {
+    border: 2px solid black;
+}
+#borda_escura3 {
+    border: 2px solid black;
+}
+#borda_escura4 {
+    border: 2px solid black;
+}
